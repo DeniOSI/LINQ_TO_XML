@@ -1,0 +1,6 @@
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_TO_XML\LINQ_TO_XML\bin\Debug\LINQ_TO_XML.exe.config
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_TO_XML\LINQ_TO_XML\bin\Debug\LINQ_TO_XML.exe
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_TO_XML\LINQ_TO_XML\bin\Debug\LINQ_TO_XML.pdb
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_TO_XML\LINQ_TO_XML\obj\Debug\LINQ_TO_XML.csprojResolveAssemblyReference.cache
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_TO_XML\LINQ_TO_XML\obj\Debug\LINQ_TO_XML.exe
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_TO_XML\LINQ_TO_XML\obj\Debug\LINQ_TO_XML.pdb
